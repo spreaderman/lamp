@@ -8,3 +8,7 @@ https://www.youtube.com/watch?v=nQDFBd5NFA8
 
 How to add an exiting project to github
 https://docs.github.com/en/free-pro-team@latest/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
+
+# Cron Tabs
+
+https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/
